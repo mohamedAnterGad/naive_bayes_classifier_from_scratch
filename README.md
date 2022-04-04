@@ -4,8 +4,8 @@ here is the implementation of naive bayes from scratch on python using pandas, n
 could you ever imagined that a naive assumption will result in a very good practice results??
 well here is the naive bayes clssifier that perform very good even knowing it's built on a naive assumption
 
-the naiive assumption is that : \n
-    1. all the features entering the model are independent features \n
+the naiive assumption is that : /n
+    1. all the features entering the model are independent features /n
     2. the distribution of the feature is of normal distribution (can assume any other distribution according to the metadata of the features)
 the naive bayes classifier is based on a simple rule in mathematics which is the following equation:
 
