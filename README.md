@@ -6,6 +6,7 @@ well here is the naive bayes clssifier that perform very good even knowing it's 
 
 the naiive assumption is that :
     1. all the features entering the model are independent features
+    
     2. the distribution of the feature is of normal distribution (can assume any other distribution according to the metadata of the features)
 the naive bayes classifier is based on a simple rule in mathematics which is the following equation:
 
